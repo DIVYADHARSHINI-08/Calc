@@ -129,9 +129,9 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-05-06 092715.png>)
+![alt text](<divi/calcapp/static/Screenshot 2024-05-06 092715.png>)
 
-![alt text](<Screenshot 2024-05-06 092730.png>)
+![alt text](<divi/calcapp/static/Screenshot 2024-05-06 092715.png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
